@@ -1,51 +1,54 @@
-<!-- HERO BANNER -->
+<!-- ================= HERO ================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=160&section=header&text=Mohanapiriyan&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=180&section=header&text=Mohanapiriyan&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- PROFILE -->
+<!-- ================= PROFILE ================= -->
+
 <p align="center">
-  <img src="profile.jpg" width="140" style="border-radius:50%;" />
+  <img src="profile.jpg" width="150" style="border-radius:50%; border:3px solid #334155;" />
 </p>
 
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  Building scalable web applications with clean architecture
+  Building scalable • clean • production-ready applications
 </p>
 
 ---
 
-## About
+# About
 
-I build real-world applications that are fast, scalable and reliable.  
-Focused on backend systems, APIs and modern frontend experiences.
+I am a Full Stack Developer who focuses on building reliable backend systems and modern frontend applications.
+
+I turn ideas into real-world products with clean architecture and performance in mind.
 
 ---
 
-## Stack
+# Tech Stack
 
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42"/>
-<img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
+<img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="45"/>
 
 </p>
 
 ---
 
-## Focus
+# What I Do
 
-- Backend systems with Node.js  
-- Real-time apps using Supabase  
-- Clean UI with React  
-- End-to-end product building  
+- Build scalable backend APIs (Node.js)  
+- Develop real-time systems (Supabase)  
+- Create clean UI (React)  
+- Deliver complete end-to-end products  
 
 ---
 
-## Projects
+# Featured Projects
 
 - Job Portal Platform  
 - Admin Dashboard  
@@ -53,15 +56,23 @@ Focused on backend systems, APIs and modern frontend experiences.
 
 ---
 
-## Stats
+# GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohanapiriyan-05&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohanapiriyan-05&show_icons=true&hide_border=true&theme=default" height="150"/>
 </p>
 
 ---
 
-## Contact
+# Identity
+
+<p align="center">
+  <strong>OMS &lt;Developers/&gt;</strong>
+</p>
+
+---
+
+# Contact
 
 <p align="center">
   mohanapiriyan05oms@gmail.com
@@ -69,13 +80,8 @@ Focused on backend systems, APIs and modern frontend experiences.
 
 ---
 
-## Identity
+<!-- ================= FOOTER ================= -->
 
 <p align="center">
-  OMS <strong>&lt;Developers/&gt;</strong>
-</p>
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,100:0f172a&height=140&section=footer"/>
 </p>
