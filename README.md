@@ -1,118 +1,82 @@
-<!-- 🎨 CUSTOM BANNER -->
+<!-- Header Banner -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohanapiriyan%20(MOG)&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1f1c2c,100:928dab&height=160&section=header&text=Mohanapiriyan&fontSize=38&fontColor=ffffff" />
 </p>
 
-<!-- 🔥 ANIMATED TYPING -->
+<h3 align="center">Full Stack Developer</h3>
+
+---
+
+## About Me
+
+I am a Full Stack Developer focused on building scalable and user-friendly web applications.
+I enjoy writing clean code, designing efficient systems, and continuously improving my skills.
+
+* Currently working on full stack applications
+* Learning advanced backend development and system design
+* Interested in performance optimization and clean architecture
+* Goal: Software Engineer in a high-impact tech environment
+
+---
+
+## Tech Stack
+
+**Frontend**
+HTML, CSS, JavaScript, React, Tailwind CSS
+
+**Backend**
+Node.js, Express.js
+
+**Database**
+MongoDB, Supabase
+
+**Tools**
+Git, GitHub, VS Code, Postman
+
+---
+
+## Projects
+
+### Job Portal Application
+
+A full stack web application for job listings and applications.
+Includes authentication, admin dashboard, and real-time updates.
+
+### Portfolio Website
+
+A personal portfolio showcasing projects and skills with a responsive design.
+
+(Add your live demo and repository links here)
+
+---
+
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Supabase;Building+Modern+Web+Apps;Always+Learning+New+Things" />
-</p>
-
-<h3 align="center">💻 Full Stack Developer | 🚀 Problem Solver</h3>
-
----
-
-## 🧑‍💻 About Me
-
-* 🔭 Working on **Real-world Full Stack Projects**
-* 🌱 Learning **Advanced Backend & System Design**
-* ⚡ Focused on **clean code & performance**
-* 🎯 Goal: Become a **Top Software Engineer**
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,supabase,git,github,vscode,postman" />
-</p>
-
----
-
-## 📌 Featured Projects (Recruiter Focus)
-
-### 🔹 Job Portal App
-
-* 🧑‍💼 Full Stack Application
-* ⚙️ React + Node.js + Supabase
-* 🔐 Authentication + Admin Dashboard
-* 📊 Real-time job updates
-
-### 🔹 Portfolio Website
-
-* 🌐 Personal branding site
-* 📱 Fully responsive
-* 🎨 Modern UI/UX
-
-👉 🔗 Add your LIVE DEMO + GitHub links here
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohanapiriyan-05&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanapiriyan-05&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Streak & Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohanapiriyan-05&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohanapiriyan-05&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanapiriyan-05&layout=compact&theme=default" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## Contact
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohanapiriyan-05&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:mohanapiriyan05oms@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-</p>
+Email: [mohanapiriyan05oms@gmail.com](mailto:mohanapiriyan05oms@gmail.com)
+LinkedIn: https://linkedin.com/in/yourprofile
+Portfolio: https://yourwebsite.com
 
 ---
 
-## 🧠 Why Recruiters Will Notice Me
+## Summary
 
-✅ Strong Full Stack profile
-✅ Real-world projects (not basic demos)
-✅ Clean and modern GitHub design
-✅ Active coding & contributions
-✅ Clearly defined career goal
-
----
-
-## ⚡ Fun Fact
-
-> I don’t just write code — I build solutions 🚀
+* Strong foundation in full stack development
+* Focus on real-world projects
+* Clean and maintainable code practices
+* Continuous learning mindset
 
 ---
 
 <p align="center">
-  ⭐ Star my repositories if you like my work!
-</p>
-
-<!-- 🎨 FOOTER -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:928dab,100:1f1c2c&height=120&section=footer" />
 </p>
