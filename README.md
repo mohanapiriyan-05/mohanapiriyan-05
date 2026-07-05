@@ -1,76 +1,41 @@
-<h1 align="center">OMS Developers</h1>
+<h1 align="center" style="color:#00ffcc;">OMS DEVELOPERS</h1>
 
 <p align="center">
-  Building Scalable Web Applications with Modern Technologies
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Node.js+Engineer;Supabase+Builder&center=true&color=00ffcc" />
 </p>
 
 ---
 
-## Profile
+## PROFILE
 
 <p align="center">
-  <img src="profile.jpg" width="180" style="border-radius:50%;" />
+  <img src="profile.jpg" width="180" style="border-radius:50%; border:2px solid #00ffcc;" />
 </p>
 
-<p align="center">
-  Mohanapiriyan <br/>
-  Full Stack Developer
-</p>
-
----
-
-## System Overview
-
-<pre>
-mohanapiriyan@oms
--------------------------
-OS: Web Developer
-Stack: Node.js, React, Supabase
-Uptime: Always Building
-IDE: VS Code
-
-Languages:
-JavaScript, HTML, CSS
-
-Projects:
-Job Portal System
-Admin Dashboard
-
-Status:
-Building OMS Developers Empire
-</pre>
-
----
-
-## Tech Stack
-
-<p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
-<img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="50"/>
-
+<p align="center" style="color:#00ffcc;">
+  MOHANAPIRIYAN <br/>
+  FULL STACK DEVELOPER
 </p>
 
 ---
 
-## GitHub Stats
+## SYSTEM TERMINAL
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohanapiriyan-05&show_icons=true" />
-</p>
+```bash
+> booting system...
 
----
+user: mohanapiriyan-05
+role: full stack developer
+system: OMS Developers
 
-## Contact
+stack: node.js | react | supabase
+status: building scalable applications
 
-Email: mohanapiriyan05oms@gmail.com
+projects:
+- job portal system
+- admin dashboard
+- contact backend api
 
----
+uptime: 24/7 coding mode
 
-## Branding
-
-<p align="center">
-  OMS <Developers/>
-</p>
+> system ready
