@@ -1,86 +1,78 @@
-<!-- Header Banner -->
+<h1 align="center">OMS Developers</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1f1c2c,100:928dab&height=160&section=header&text=Mohanapiriyan&fontSize=38&fontColor=ffffff" />
+  Building Scalable Web Applications with Modern Technologies
 </p>
-
-<!-- Logo -->
-
-<p align="center">
-  <img src="https://img.icons8.com/ios-filled/100/ffffff/source-code.png" width="60" />
-</p>
-
-<h3 align="center">Full Stack Developer</h3>
 
 ---
 
 ## About Me
 
-I am a Full Stack Developer focused on building scalable and user-friendly web applications.
-I enjoy writing clean code, designing efficient systems, and continuously improving my skills.
+I am Mohanapiriyan, a passionate Full Stack Developer focused on building clean, scalable and production-ready web applications.
 
-* Currently working on full stack applications
-* Learning advanced backend development and system design
-* Interested in performance optimization and clean architecture
-* Goal: Software Engineer in a high-impact tech environment
+I specialize in modern JavaScript technologies and backend integrations with real-time databases.
 
 ---
 
 ## Tech Stack
 
-**Frontend**
-HTML, CSS, JavaScript, React, Tailwind CSS
+<p align="center">
 
-**Backend**
-Node.js, Express.js
+  <!-- Node.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" />
 
-**Database**
-MongoDB, Supabase
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
 
-**Tools**
-Git, GitHub, VS Code, Postman
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" />
 
----
+  <!-- Supabase -->
+  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="50" />
 
-## Projects
+  <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />
 
-### Job Portal Application
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" />
 
-A full stack web application for job listings and applications.
-Includes authentication, admin dashboard, and real-time updates.
-
-### Portfolio Website
-
-A personal portfolio showcasing projects and skills with a responsive design.
-
-(Add your live demo and repository links here)
+</p>
 
 ---
 
-## GitHub Statistics
+## Current Focus
+
+- Building Job Portal Web Applications  
+- Backend APIs with Node.js  
+- Real-time Database using Supabase  
+- Clean UI with React  
+
+---
+
+## Featured Projects
+
+- Job Portal Web App  
+- Contact & Email System  
+- Admin Dashboard  
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohanapiriyan-05&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanapiriyan-05&layout=compact&theme=default" />
 </p>
 
 ---
 
 ## Contact
 
-Email: [mohanapiriyan05oms@gmail.com](mailto:mohanapiriyan05oms@gmail.com)
+Email: mohanapiriyan05oms@gmail.com  
 
 ---
 
-## Summary
-
-* Strong foundation in full stack development
-* Focus on real-world projects
-* Clean and maintainable code practices
-* Continuous learning mindset
-
----
+## Branding
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:928dab,100:1f1c2c&height=120&section=footer" />
+  OMS <Developers/>
 </p>
