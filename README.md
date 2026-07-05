@@ -1,61 +1,54 @@
 <h1 align="center">Mohanapiriyan</h1>
 
 <p align="center">
-  Full Stack Developer • Building Scalable Web Applications
-</p>
-
----
-
-## About
-
-I am a Full Stack Developer focused on building clean, scalable, and production-ready web applications.  
-My work is centered around backend systems, real-time databases, and modern UI development.
-
----
-
-## Profile
-
-<p align="center">
-  <img src="profile.jpg" width="140" />
+  Building clean, scalable and real-world web applications
 </p>
 
 <p align="center">
-  mohanapiriyan-05
+  <img src="profile.jpg" width="130" style="border-radius:50%;" />
 </p>
 
 ---
 
-## Tech Stack
+## Who Am I
+
+I am a Full Stack Developer focused on crafting production-ready applications with strong backend logic and clean user interfaces.
+
+I enjoy turning ideas into real systems that people can use.
+
+---
+
+## What I Work With
 
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-<img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
+<img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="45"/>
 
 </p>
 
 ---
 
-## Work Focus
+## Current Direction
 
-- Backend APIs with Node.js  
-- Real-time systems using Supabase  
-- Clean and responsive UI with React  
-- Scalable project architecture  
+- Designing backend systems with Node.js  
+- Building real-time apps using Supabase  
+- Developing modern UI with React  
+- Creating complete end-to-end products  
 
 ---
 
-## Selected Work
+## Selected Projects
 
 - Job Portal Platform  
 - Admin Dashboard  
-- Contact & Email System  
+- Contact & Email Backend  
 
 ---
 
-## GitHub
+## GitHub Overview
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohanapiriyan-05&show_icons=true&hide_border=true" />
@@ -65,10 +58,14 @@ My work is centered around backend systems, real-time databases, and modern UI d
 
 ## Contact
 
-mohanapiriyan05oms@gmail.com
+<p align="center">
+  mohanapiriyan05oms@gmail.com
+</p>
 
 ---
 
-## Note
+## Philosophy
 
-Consistent building. Clean code. Real-world projects.
+> Build things that work.  
+> Keep it simple.  
+> Make it scalable.
