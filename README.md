@@ -1,46 +1,51 @@
-<h1 align="center">Mohanapiriyan</h1>
-
+<!-- HERO BANNER -->
 <p align="center">
-  Building clean, scalable and real-world web applications
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=160&section=header&text=Mohanapiriyan&fontSize=40&fontColor=ffffff" />
 </p>
 
+<!-- PROFILE -->
 <p align="center">
-  <img src="profile.jpg" width="130" style="border-radius:50%;" />
+  <img src="profile.jpg" width="140" style="border-radius:50%;" />
 </p>
 
----
-
-## Who Am I
-
-I am a Full Stack Developer focused on crafting production-ready applications with strong backend logic and clean user interfaces.
-
-I enjoy turning ideas into real systems that people can use.
-
----
-
-## What I Work With
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
-<img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="45"/>
-
+  Building scalable web applications with clean architecture
 </p>
 
 ---
 
-## Current Direction
+## About
 
-- Designing backend systems with Node.js  
-- Building real-time apps using Supabase  
-- Developing modern UI with React  
-- Creating complete end-to-end products  
+I build real-world applications that are fast, scalable and reliable.  
+Focused on backend systems, APIs and modern frontend experiences.
 
 ---
 
-## Selected Projects
+## Stack
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42"/>
+<img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="42"/>
+
+</p>
+
+---
+
+## Focus
+
+- Backend systems with Node.js  
+- Real-time apps using Supabase  
+- Clean UI with React  
+- End-to-end product building  
+
+---
+
+## Projects
 
 - Job Portal Platform  
 - Admin Dashboard  
@@ -48,10 +53,10 @@ I enjoy turning ideas into real systems that people can use.
 
 ---
 
-## GitHub Overview
+## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohanapiriyan-05&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohanapiriyan-05&show_icons=true&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -64,8 +69,13 @@ I enjoy turning ideas into real systems that people can use.
 
 ---
 
-## Philosophy
+## Identity
 
-> Build things that work.  
-> Keep it simple.  
-> Make it scalable.
+<p align="center">
+  OMS <strong>&lt;Developers/&gt;</strong>
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer"/>
+</p>
