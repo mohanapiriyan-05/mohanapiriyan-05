@@ -1,41 +1,74 @@
-<h1 align="center" style="color:#00ffcc;">OMS DEVELOPERS</h1>
+<h1 align="center">Mohanapiriyan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Node.js+Engineer;Supabase+Builder&center=true&color=00ffcc" />
+  Full Stack Developer • Building Scalable Web Applications
 </p>
 
 ---
 
-## PROFILE
+## About
+
+I am a Full Stack Developer focused on building clean, scalable, and production-ready web applications.  
+My work is centered around backend systems, real-time databases, and modern UI development.
+
+---
+
+## Profile
 
 <p align="center">
-  <img src="profile.jpg" width="180" style="border-radius:50%; border:2px solid #00ffcc;" />
+  <img src="profile.jpg" width="140" />
 </p>
 
-<p align="center" style="color:#00ffcc;">
-  MOHANAPIRIYAN <br/>
-  FULL STACK DEVELOPER
+<p align="center">
+  mohanapiriyan-05
 </p>
 
 ---
 
-## SYSTEM TERMINAL
+## Tech Stack
 
-```bash
-> booting system...
+<p align="center">
 
-user: mohanapiriyan-05
-role: full stack developer
-system: OMS Developers
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="40"/>
 
-stack: node.js | react | supabase
-status: building scalable applications
+</p>
 
-projects:
-- job portal system
-- admin dashboard
-- contact backend api
+---
 
-uptime: 24/7 coding mode
+## Work Focus
 
-> system ready
+- Backend APIs with Node.js  
+- Real-time systems using Supabase  
+- Clean and responsive UI with React  
+- Scalable project architecture  
+
+---
+
+## Selected Work
+
+- Job Portal Platform  
+- Admin Dashboard  
+- Contact & Email System  
+
+---
+
+## GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohanapiriyan-05&show_icons=true&hide_border=true" />
+</p>
+
+---
+
+## Contact
+
+mohanapiriyan05oms@gmail.com
+
+---
+
+## Note
+
+Consistent building. Clean code. Real-world projects.
