@@ -4,6 +4,12 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1f1c2c,100:928dab&height=160&section=header&text=Mohanapiriyan&fontSize=38&fontColor=ffffff" />
 </p>
 
+<!-- Logo -->
+
+<p align="center">
+  <img src="https://img.icons8.com/ios-filled/100/ffffff/source-code.png" width="60" />
+</p>
+
 <h3 align="center">Full Stack Developer</h3>
 
 ---
@@ -63,8 +69,6 @@ A personal portfolio showcasing projects and skills with a responsive design.
 ## Contact
 
 Email: [mohanapiriyan05oms@gmail.com](mailto:mohanapiriyan05oms@gmail.com)
-LinkedIn: https://linkedin.com/in/yourprofile
-Portfolio: https://yourwebsite.com
 
 ---
 
